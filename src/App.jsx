@@ -25,7 +25,7 @@ import {
   MessageSquare,
 } from 'lucide-react';
 
-const apiKey = '';
+const apiKey = "AIzaSyAcEFx3CaW6JwvoozVz0oLWMy2boK3IlH0";
 
 const App = () => {
   // --- Gemini API State & Functions ---
